@@ -1,1 +1,2 @@
 # Windows-11-Compatibility-PowerShell-Checker
+This PowerShell script was created to assess Windows 11 upgrade readiness across enterprise endpoints. The script validates TPM 2.0 availability, Secure Boot configuration, RAM, CPU, storage capacity, and BIOS mode requirements to assist with upgrade planning and endpoint compatibility validation.
